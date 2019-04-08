@@ -4,4 +4,4 @@ My first
 *************
 Add bg images
 
-&&& Adby script 
+&&& Adby scripts
