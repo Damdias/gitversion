@@ -1,4 +1,10 @@
 My first
 
+<<<<<<< HEAD
 #########
 change by develop 1
+=======
+
+*************
+Add bg images
+>>>>>>> 1256a75... add bg image
